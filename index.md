@@ -6,3 +6,5 @@
 ```
 PLINK is a software which I use every day.
 ```
+- [] This is the first item in this task list
+- [x] This is another item in this task list which is handled
